@@ -3,3 +3,7 @@ node_modules
 Dockerfile
 
 .dockerfile
+
+### for demo
+dummy.txt
+docker_notes.md
